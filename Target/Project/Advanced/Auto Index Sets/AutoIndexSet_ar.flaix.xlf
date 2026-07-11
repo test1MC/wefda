@@ -7,9 +7,9 @@
     xml:space="preserve"
     original="AutoIndexSet.flaix"
     source-language="en-us"
+    target-language="ar"
     MadCap:file-filter=""
-    datatype="x-flaix"
-    target-language="ar">
+    datatype="x-flaix">
     <header>
       <skl><external-file
           href="AutoIndexSet.flaix.skl" /></skl>
